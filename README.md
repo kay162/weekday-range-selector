@@ -49,4 +49,4 @@ The value for `Monday to Friday` is `0-4`.
 
 ## License
 
-[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html) © 2019 Fatih Kaymak
+[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html)
